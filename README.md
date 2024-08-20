@@ -3,7 +3,7 @@
 I'm an artiast and an engineer, I've been programming in various programming languages for 9 years
 While I love mostly c++ and python, my proffesional career is built on doing embedded c/c++ for usually arm based microcontrollers, but i did get my hands on PPC64 and various 8 bit machines 
 
-I'm currently spending time developing a python based 3d engine
+I'm currently loosing my mind at making the most complex thing in my life.
 
 <!---
 lemonJumps/lemonJumps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
